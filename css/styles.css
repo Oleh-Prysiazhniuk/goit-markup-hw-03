@@ -55,6 +55,10 @@ ul, ol {
 /* ------хедер------ */
 .page-header {
 background-color: var(--primary-bg-color);
+border: 1px solid #ECECEC;
+border-top: none;
+border-left: none;
+border-right: none;
 }
 
 .menu-heder {
